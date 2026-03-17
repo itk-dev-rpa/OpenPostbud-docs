@@ -11,4 +11,4 @@ nav_order: 0
 OpenPostbud er en webapplikation til masseudsendelse af Digital Post og NemSMS via Kombits serviceplatform.
 **OpenPostbud understøtter ikke fjernpost på nuværende tidspunkt.**
 
-![Home page](/docs/images/Home_page.png)
+![Home page](docs/images/Home_page.png)
