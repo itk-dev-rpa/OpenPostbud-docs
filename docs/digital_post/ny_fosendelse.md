@@ -63,6 +63,6 @@ Det, der reelt sker, er at alle brevene sættes i kø til at blive afsendt,
 hvorefter de bliver afsendt løbende.
 
 Du vil automatisk blive videresendt til forsendelsens overbliksside. Læs mere om det
-[her](/docs/digital_post/forsendelser).
+[her]({{ "/docs/digital_post/forsendelser#forsendelse-detaljer" | relative_url }}).
 
 ![Send post]({{ "assets/images/digital_post/ny_forsendelse/send_post.png" | relative_url }})
