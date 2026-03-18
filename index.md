@@ -14,3 +14,5 @@ OpenPostbud er en webapplikation til masseudsendelse af Digital Post og NemSMS v
 ![Home page](/assets/images/Home_page.png)
 
 Hej {{ site.url }}
+
+Hej {{ site.baseurl }}

@@ -2,7 +2,8 @@ title: OpenPostbud Docs
 description: Dokumentation for OpenPostbud
 theme: just-the-docs
 
-url: "https://itk-dev-rpa.github.io/OpenPostbud-docs"
+baseurl: "/OpenPostbud-docs"
+url: "https://itk-dev-rpa.github.io/"
 
 aux_links:
   "OpenPostbud Github": https://github.com/itk-dev-rpa/OpenPostbud
