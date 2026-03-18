@@ -10,4 +10,4 @@ OpenPostbud benytter OIDC til single sign on. Dettes skal sættes op af en admin
 Hvis du har fået adgang til systemet, kan du bare trykke på "Login" for at blive viderestillet
 til single sign on.
 
-![Login Page](/assets/images/Login_page.png)
+![Login Page]({{ "assets/images/Login_page.png" | relative_url }})

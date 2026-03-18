@@ -16,7 +16,7 @@ Første trin er at beskrive sin forsendelse.
 Dette er udelukkende til intern brug i OpenPostbud og intet her bliver sendt til modtagerne
 af forsendelsen.
 
-![Beskrivelse](/assets/images/digital_post/ny_forsendelse_1.png)
+![Beskrivelse]({{ "assets/images/digital_post/ny_forsendelse_1.png" | relative_url }})
 
 ## Skabelon og data
 
@@ -25,7 +25,7 @@ Benyt det lille plus-ikon til at vælge henholdvist en Word/Pdf-fil og en csv-fi
 
 Du kan læse mere om at lave brevskabeloner [her](/docs/digital_post/skabeloner).
 
-![Skabelon og data](/assets/images/digital_post/ny_forsendelse_2.png)
+![Skabelon og data]({{ "assets/images/digital_post/ny_forsendelse_2.png" | relative_url }})
 
 Når du har valgt en skabelon, vil OpenPostbud vise alle de flettefelter, den kan finde i skabelonen
 i boksen under skabelonvælgeren. Hvis du har uploadet en pdf, vil der ikke være nogen flettefelter.
@@ -40,7 +40,7 @@ Læs mere om de særlige kolonner [her](/docs/digital_post/Særlige_flettedata)
 
 Eventuelle fejl og advarsler bliver vist i boksen nederst.
 
-![Skabelon og data udfyldt](/assets/images/digital_post/ny_forsendelse_3.png)
+![Skabelon og data udfyldt]({{ "assets/images/digital_post/ny_forsendelse_3.png" | relative_url }})
 
 ## Gennemgå eksempler
 
@@ -53,7 +53,7 @@ at se ud, når det bliver sendt til borgeren.
 **Det anbefales på det kraftigste at gennemgå en håndfuld breve for at sikre, at skabelon og
 flettedata er sat korrekt op.**
 
-![Breveksempler](/assets/images/digital_post/ny_forsendelse_4.png)
+![Breveksempler]({{ "assets/images/digital_post/ny_forsendelse_4.png" | relative_url }})
 
 ## Send post
 
@@ -65,4 +65,4 @@ hvorefter de bliver afsendt løbende.
 Du vil automatisk blive videresendt til forsendelsens overbliksside. Læs mere om det
 [her](/docs/digital_post/forsendelser).
 
-![Send post](/assets/images/digital_post/ny_forsendelse_5.png)
+![Send post]({{ "assets/images/digital_post/ny_forsendelse_5.png" | relative_url }})
