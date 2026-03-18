@@ -6,5 +6,3 @@ has_children: True
 ---
 
 # Digital Post
-
-Hej med dig
