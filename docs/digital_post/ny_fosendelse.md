@@ -16,16 +16,16 @@ Første trin er at beskrive sin forsendelse.
 Dette er udelukkende til intern brug i OpenPostbud og intet her bliver sendt til modtagerne
 af forsendelsen.
 
-![Beskrivelse](docs/images/digital_post/ny_forsendelse_1.png)
+![Beskrivelse](/assets/images/digital_post/ny_forsendelse_1.png)
 
 ## Skabelon og data
 
 I dette trin skal du uploade din skabelon og det flettedata, som beskriver alle de individuelle breve.
 Benyt det lille plus-ikon til at vælge henholdvist en Word/Pdf-fil og en csv-fil.
 
-Du kan læse mere om at lave brevskabeloner [her](docs/digital_post/skabeloner).
+Du kan læse mere om at lave brevskabeloner [her](/docs/digital_post/skabeloner).
 
-![Skabelon og data](docs/images/digital_post/ny_forsendelse_2.png)
+![Skabelon og data](/assets/images/digital_post/ny_forsendelse_2.png)
 
 Når du har valgt en skabelon, vil OpenPostbud vise alle de flettefelter, den kan finde i skabelonen
 i boksen under skabelonvælgeren. Hvis du har uploadet en pdf, vil der ikke være nogen flettefelter.
@@ -36,11 +36,11 @@ Flettefelterne i boksen til venstre vil blive markeret med et flueben, hvis der 
 kolonne i flettedataen.
 
 Nogle kolonner i flettedataen har særlige funktioner i OpenPostbud. Disse bliver markeret med et tandhjul.
-Læs mere om de særlige kolonner [her](docs/digital_post/Særlige_flettedata)
+Læs mere om de særlige kolonner [her](/docs/digital_post/Særlige_flettedata)
 
 Eventuelle fejl og advarsler bliver vist i boksen nederst.
 
-![Skabelon og data udfyldt](docs/images/digital_post/ny_forsendelse_3.png)
+![Skabelon og data udfyldt](/assets/images/digital_post/ny_forsendelse_3.png)
 
 ## Gennemgå eksempler
 
@@ -53,7 +53,7 @@ at se ud, når det bliver sendt til borgeren.
 **Det anbefales på det kraftigste at gennemgå en håndfuld breve for at sikre, at skabelon og
 flettedata er sat korrekt op.**
 
-![Breveksempler](docs/images/digital_post/ny_forsendelse_4.png)
+![Breveksempler](/assets/images/digital_post/ny_forsendelse_4.png)
 
 ## Send post
 
@@ -63,6 +63,6 @@ Det, der reelt sker, er at alle brevene sættes i kø til at blive afsendt,
 hvorefter de bliver afsendt løbende.
 
 Du vil automatisk blive videresendt til forsendelsens overbliksside. Læs mere om det
-[her](docs/digital_post/forsendelser).
+[her](/docs/digital_post/forsendelser).
 
-![Send post](docs/images/digital_post/ny_forsendelse_5.png)
+![Send post](/assets/images/digital_post/ny_forsendelse_5.png)

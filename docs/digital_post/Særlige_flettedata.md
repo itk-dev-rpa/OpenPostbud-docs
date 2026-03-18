@@ -13,10 +13,10 @@ Nogle kolonner i den uploadede flettedata har særlige funktioner i OpenPostbud.
 
 Du kan se en oversigt over dem her, og læse mere i detaljer længere nede.
 
-| Navn          | Beskrivelse                     | Obligatorisk |
-| :------------ | ------------------------------- | ------------ |
-| Memo Modtager | Cpr-nummer på modtager          | Ja           |
-| Memo Label    | Overskrift eller emne på brevet | Ja           |
+| Navn          | Beskrivelse               | Obligatorisk |
+| :------------ | ------------------------- | ------------ |
+| Memo Modtager | Cpr-nummer på modtager    | Ja           |
+| Memo Label    | Overskrift/emne på brevet | Ja           |
 
 ### Memo Modtager
 
