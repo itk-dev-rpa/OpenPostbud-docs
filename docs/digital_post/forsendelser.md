@@ -51,4 +51,4 @@ Breve kan have følgende statusser:
 | Afsendt   | Brevet er leveret til Kombits systemer.                                                 |
 | Leveret   | En kvittering for levering til modtager er modtaget fra Kombit                          |
 | Fejlet    | En fejl opstod under afsendelse af brevet. Dette er oftest uddybet i 'Besked'-kolonnen. |
-| Afbrudt   | Brevet er blevet manuelt afbrudt af en bruger.                                          |
+| Afbrudt   | Afsendelse er blevet manuelt afbrudt af en bruger.                                      |
