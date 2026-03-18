@@ -23,7 +23,7 @@ af forsendelsen.
 I dette trin skal du uploade din skabelon og det flettedata, som beskriver alle de individuelle breve.
 Benyt det lille plus-ikon til at vælge henholdvist en Word/Pdf-fil og en csv-fil.
 
-Du kan læse mere om at lave brevskabeloner [her](/docs/digital_post/skabeloner).
+Du kan læse mere om at lave brevskabeloner [her]({{ "/docs/digital_post/skabeloner" | relative_url }}).
 
 ![Skabelon og data]({{ "assets/images/digital_post/ny_forsendelse/skabelon_og_data_1.png" | relative_url }})
 
@@ -36,7 +36,7 @@ Flettefelterne i boksen til venstre vil blive markeret med et flueben, hvis der 
 kolonne i flettedataen.
 
 Nogle kolonner i flettedataen har særlige funktioner i OpenPostbud. Disse bliver markeret med et tandhjul.
-Læs mere om de særlige kolonner [her](/docs/digital_post/Særlige_flettedata)
+Læs mere om de særlige kolonner [her]({{ "/docs/digital_post/særlige_flettedata" | relative_url }}).
 
 Eventuelle fejl og advarsler bliver vist i boksen nederst.
 
