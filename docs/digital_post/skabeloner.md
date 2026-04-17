@@ -18,7 +18,7 @@ hvor en værdi indsættes i stedet for en pladsholder.
 
 Pladsholdere defineres ved hjælp af dobbelte "tuborgklammer" (akkolader), således:
 {% raw %}
-`{{ Pladsholder-navn }}`
+`Kære {{ borger-navn }}, du modtager dette brev...`
 {% endraw %}
 
 **Bemærk** mellemrummene mellem tuborgklammerne og pladsholderens navn.
@@ -36,12 +36,12 @@ brev, hvis en kolonne i ens flettedata har en bestemt værdi. Dette gøres såle
 {% raw %}
 
 ```text
-{%p if pladsholder == "Sandt" %}
+{%p if vis-brødtekst == "ja" %}
 Dette er en brødtekst.
 {%p endif %}
 ```
 
 {% endraw %}
 
-I dette eksempel vil teksten "Dette er en brødtekst." kun fremgå af brevet, hvis pladsholderens
-værdi er "Sandt". Hvis ikke vil både klausulen og brødteksten blive fjernet.
+I dette eksempel vil teksten "Dette er en brødtekst." kun fremgå af brevet, hvis pladsholderen "vis-brødtekst"
+har værdien "ja". Hvis ikke vil både klausulen og brødteksten blive fjernet.
