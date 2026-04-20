@@ -27,7 +27,7 @@ Du kan læse mere om at lave brevskabeloner [her]({{ "/docs/digital_post/skabelo
 
 ![Skabelon og data]({{ "assets/images/digital_post/ny_forsendelse/skabelon_og_data_1.png" | relative_url }})
 
-Når du har valgt en skabelon, vil OpenPostbud vise alle de flettefelter, den kan finde i skabelonen
+Når du har valgt en skabelon, vil OpenPostbud vise alle de flettefelter, den kan finde i skabelonen,
 i boksen under skabelonvælgeren. Hvis du har uploadet en pdf, vil der ikke være nogen flettefelter.
 
 Når du har valgt en csv-fil med flettedata, vil kolonnerne i csv-filen blive vist til højre.
