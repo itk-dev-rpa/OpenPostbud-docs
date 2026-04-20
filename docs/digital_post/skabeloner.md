@@ -7,7 +7,7 @@ parent: Digital Post
 
 # Skabeloner
 
-Skabeloner i OpenPostbud laves i Word som .docx-filer.
+Skabeloner i OpenPostbud laves i Word som docx-filer.
 
 Der benyttes Jinja2 syntaks. Hvis du ikke ved hvad det betyder, er det ikke vigtigt.
 
