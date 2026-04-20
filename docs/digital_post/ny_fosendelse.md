@@ -40,7 +40,7 @@ Læs mere om de særlige kolonner [her]({{ "/docs/digital_post/særlige_fletteda
 
 Eventuelle fejl og advarsler bliver vist i boksen nederst.
 
-![Skabelon og data udfyldt]({{ "assets/images/digital_post/ny_forsendelse/skabelon_og_data_2.png" | relative_url }})
+![Skabelon og data udfyldt]({{ "assets/images/digital_post/ny_forsendelse/skabelon_og_data_2.png" | relative_url }})<!-- markdownlint-disable-line MD013 -->
 
 ## Gennemgå eksempler
 
