@@ -30,7 +30,7 @@ Du kan læse mere om at lave brevskabeloner [her]({{ "/docs/digital_post/skabelo
 Når du har valgt en skabelon, vil OpenPostbud vise alle de flettefelter, den kan finde i skabelonen
 i boksen under skabelonvælgeren. Hvis du har uploadet en pdf, vil der ikke være nogen flettefelter.
 
-Når du har valgt en csv-file med flettedata, vil kolonnerne i csv-filen blive vist til højre.
+Når du har valgt en csv-fil med flettedata, vil kolonnerne i csv-filen blive vist til højre.
 
 Flettefelterne i boksen til venstre vil blive markeret med et flueben, hvis der findes en tilsvarende
 kolonne i flettedataen.
@@ -40,7 +40,7 @@ Læs mere om de særlige kolonner [her]({{ "/docs/digital_post/særlige_fletteda
 
 Eventuelle fejl og advarsler bliver vist i boksen nederst.
 
-![Skabelon og data udfyldt]({{ "assets/images/digital_post/ny_forsendelse/skabelon_og_data_2.png" | relative_url }})
+![Skabelon og data udfyldt]({{ "assets/images/digital_post/ny_forsendelse/skabelon_og_data_2.png" | relative_url }})<!-- markdownlint-disable-line MD013 -->
 
 ## Gennemgå eksempler
 
